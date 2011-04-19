@@ -1,0 +1,17 @@
+My Chart Program
+=================
+Harnish Patel,3/30/2011,CSC 2310,Simple bar chart
+==================================================
+program displays a simple chart which input can be changed
+the input is used in a JOptionPane, so there is a limit to input but realistic
+being realistic I used 4 inputs
+a legend also displays the color of bar and input given
+each color is different and automatic and be changed manually in code
+
+=======================================================
+
+ examples to run:
+
+java - jar Main.jar //type in 4 inputs so
+java - jar Main.jar 30 50 46 150
+java - jar Main.jar 546.3 708.7 315.05 450.8
